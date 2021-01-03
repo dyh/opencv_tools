@@ -1,6 +1,12 @@
-# opencv 图像预处理小工具
+# 图像预处理 pipeline 工具
 
-一键预览 60 种图像效果
+一键预览 OpenCV 60 种图像效果
+
+### 视频
+
+bilibili
+
+[![bilibili](https://github.com/dyh/unbox_use_detectron2_model_in_cpp_of_caffe2/blob/main/cover.png?raw=true)](https://space.bilibili.com/326361150/ "bilibili")
 
 
 ### 图像色彩
