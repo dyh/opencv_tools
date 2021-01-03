@@ -6,7 +6,7 @@
 
 bilibili
 
-[![bilibili](https://github.com/dyh/unbox_use_detectron2_model_in_cpp_of_caffe2/blob/main/cover.png?raw=true)](https://space.bilibili.com/326361150/ "bilibili")
+[![bilibili](https://github.com/dyh/opencv_tools/blob/main/cover.jpg?raw=true)](https://www.bilibili.com/video/BV1Cy4y127P7/ "bilibili")
 
 
 ### 图像色彩
