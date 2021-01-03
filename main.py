@@ -8,10 +8,7 @@ from image_color import show_hsv
 from image_enhancement import show_enhancement
 
 if __name__ == '__main__':
-    # file_path = './images/000000050145.jpg'
-    # file_path = './images/000000507081.jpg'
-    # file_path = './images/000000024021.jpg'
-    file_path = './images/1130780078.bmp'
+    file_path = './images/000000507081.jpg'
 
     origin = cv2.imread(file_path)
     origin = origin[:, :, [2, 1, 0]]
