@@ -100,13 +100,53 @@ image_enhancement.py
 
 ## 如何运行
 
-1. 在 main.py 文件中，设置要处理的图片路径 file_path，例如 file_path = './images/000000050145.jpg'
+1. 克隆代码
 
-2. 运行程序
+    ```
+    $ git clone https://github.com/dyh/opencv_tools.git
+    ```
+   
+2. 进入目录
+
+    ```
+    $ cd opencv_tools
+    ```
+
+3. 创建 python 虚拟环境
+
+    ```
+    $ python3 -m venv venv
+    ```
+
+4. 激活虚拟环境
+
+    ```
+    $ source venv/bin/activate
+    ```
+   
+5. 升级pip
+
+    ```
+    $ python -m pip install --upgrade pip
+    ```
+
+6. 安装软件包
+
+    ```
+    $ pip install -r requirements.txt
+    ```
+
+7. 在 main.py 文件中，设置要处理的图片路径 file_path，例如
+ 
+    ```
+    file_path = './images/000000050145.jpg'
+    ```
+   
+8. 运行程序
+
     ```
     python main.py
     ```
 
-3. 将在 output 目录下看到输出的图片
-
+9. 程序将在 output 目录下输出60张图片
 
